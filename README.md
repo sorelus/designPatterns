@@ -1,2 +1,2 @@
 # designPatterns
-Implementations de quelques desing patterns dont je suis entrain de lire
+Implementations de quelques desing patterns qui m'aident dans mon travail au quotidien.
